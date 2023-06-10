@@ -1,0 +1,6 @@
+{
+  "ar": [
+    "flutterDemo",
+    "vip_messenger"
+  ]
+}

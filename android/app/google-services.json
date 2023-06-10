@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "352172636195",
+    "project_id": "makeup-store-2",
+    "storage_bucket": "makeup-store-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352172636195:android:948ca85cf02e5741755996",
+        "android_client_info": {
+          "package_name": "com.example.Jbeauty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352172636195-c41d041pehr7unhj1gv9vnl7aou3e0dt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Mc1c7sl1M4IYbef1wWO_nSvzFWcEyNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352172636195-c41d041pehr7unhj1gv9vnl7aou3e0dt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
